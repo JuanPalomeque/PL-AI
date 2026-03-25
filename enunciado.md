@@ -116,7 +116,7 @@ La competencia tiene **dos componentes**:
 
 #### C1. Asignación fija
 
-6. Cada grupo debe entregar su asignación definitiva de hectáreas **(números enteros)** para la campaña 2024/25. Completar las variables `HA_TRIGO_SOJA`, `HA_MAIZ` y `HA_SOJA_1RA` en el archivo `estrategia.py`.
+6. Cada alumno debe entregar su asignación definitiva de hectáreas **(números enteros)** para la campaña 2024/25. Completar las variables `HA_TRIGO_SOJA`, `HA_MAIZ` y `HA_SOJA_1RA` en el archivo `estrategia.py`.
 
    Los rendimientos reales de 2024/25 serán revelados en clase. El grupo cuya asignación genere el **mayor margen bruto real** gana este componente.
 
